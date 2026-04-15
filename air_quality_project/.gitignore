@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+.conda/
+anaconda_projects/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Data — keep the CSV but ignore large raw dumps if added later
+# data/*.zip
+# data/*.tar.gz
